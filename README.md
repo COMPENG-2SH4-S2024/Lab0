@@ -1,3 +1,4 @@
-# Lab0
+# COE2SH4-Lab0-starter
+MacID: [Insert your macID here]
 
-Make sure to create your Git account with your MacID as prefix / postfix.
+StudentID: [Insert your numerical student ID here]
